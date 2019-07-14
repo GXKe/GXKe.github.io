@@ -3,7 +3,7 @@ title: 观星客's Blog
 SEOTitle: 观星客's Blog
 header-img: img/home-bg.jpg
 email: caowang2008@aliyun.com
-description: ""
+description: "追求决定生命的高度"
 keyword: ""
 url: "gxke.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
@@ -87,6 +87,14 @@ service-worker: true
 # Friends
 friends: [
     {
+        title: "Jiajun的编程随想",
+        href: "https://jiajunhuang.com/"
+    },{
+        title: "Michael翔",
+        href: "https://michael728.github.io/"
+    },{
+        title: "廖雪峰",
+        href: "https://www.liaoxuefeng.com/"
     #     title: "Su",
     #     href: "http://su.gallery/"
     # },{
